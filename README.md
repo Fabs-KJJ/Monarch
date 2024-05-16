@@ -75,6 +75,4 @@ You should now be able to access the application at `http://localhost:8000`.
 ![alt text](image-11.png)
 
 ![alt text](image-12.png)
-=======
-# Apex
->>>>>>> fbf4bea72bff337ba3c9ff13cf533b84b10669b8
+
